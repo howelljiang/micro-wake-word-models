@@ -1,0 +1,12 @@
+{
+    "type": "micro",
+    "wake_word": "Are Go Are Go",
+    "author": "@HowellJiang",
+    "website": "https://github.com/howelljiang/micro-wake-word-models",
+    "model": "are_go_are_go.tflite",
+    "trained_languages": [
+        "cn"
+    ],
+    "version": 2
+
+}
